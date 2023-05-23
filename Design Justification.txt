@@ -1,0 +1,11 @@
+Design Justification
+Regarding the design above, please outline your reasons for the design choices you made:
+
+In regards to the CSS, I went for a simplistic style that would be professional and easy to read.
+If presented on a company website or application, the colour and styling would be changed to match.
+
+In actual use, the HTML template would link to wherever the information is needing to be stored or used.
+The answers could also easily be linked to the TaxProgram in order to streamline the payroll process.
+
+The inputs I used I feel are the only necessary questions needed for the limited scope of this exercise.
+Should the company require more specific inputs, they can be easily added to the HTML.
